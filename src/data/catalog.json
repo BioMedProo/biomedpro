@@ -29,7 +29,7 @@
       "price": 14.99,
       "techNote": "Amplificador de instrumentación con rechazo en modo común (CMRR 80 dB) y filtro paso banda integrado para extraer complejos QRS limpios.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Modulo+ECG+AD8232",
-      "buyUrl": "https://www.amazon.es/s?k=sensor+ecg+ad8232&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=sensor+ecg+ad8232&tag=biomedpro-21"
     },
     {
       "id": "bio-02",
@@ -40,7 +40,7 @@
       "price": 11.50,
       "techNote": "LED rojo e infrarrojo con fotodetector de bajo ruido y comunicación I2C; ideal para algoritmos de frecuencia cardíaca y saturación en ESP32.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Sensor+MAX30102",
-      "buyUrl": "https://www.amazon.es/s?k=max30102+sensor&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=max30102+sensor&tag=biomedpro-21"
     },
     {
       "id": "bio-03",
@@ -51,7 +51,7 @@
       "price": 16.95,
       "techNote": "ADC de 12 bits y conectividad BLE para enviar señales fisiológicas en tiempo real a MATLAB o Python sin latencia apreciable.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=ESP32-S3+DevKit",
-      "buyUrl": "https://www.amazon.es/s?k=esp32+s3&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=esp32+s3&tag=biomedpro-21"
     },
     {
       "id": "bio-04",
@@ -62,7 +62,7 @@
       "price": 34.99,
       "techNote": "Muestreo de 2.5 MS/s y ancho de banda de 200 kHz; perfecto para verificar etapas de filtrado analógico en prácticas fuera del laboratorio.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Osciloscopio+Portatil",
-      "buyUrl": "https://www.amazon.es/s?k=osciloscopio+portatil+fnirsi&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=osciloscopio+portatil+fnirsi&tag=biomedpro-21"
     },
     {
       "id": "bio-05",
@@ -73,7 +73,7 @@
       "price": 49.90,
       "techNote": "Algoritmo oscilométrico con detección de irregularidades del pulso y manguito Intelli Wrap de 360° que minimiza errores por mala colocación.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Tensiometro+Clinico",
-      "buyUrl": "https://www.amazon.es/s?k=tensiometro+brazo+omron&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=tensiometro+brazo+omron&tag=biomedpro-21"
     },
     {
       "id": "bio-06",
@@ -84,7 +84,7 @@
       "price": 189.00,
       "techNote": "Integra electrodos para ECG de una derivación, análisis de impedancia bioeléctrica (BIA) y sensor óptico multicanal para variabilidad cardíaca (HRV).",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Smartwatch+ECG",
-      "buyUrl": "https://www.amazon.es/s?k=smartwatch+ecg&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=smartwatch+ecg&tag=biomedpro-21"
     },
     {
       "id": "bio-07",
@@ -95,7 +95,7 @@
       "price": 26.50,
       "techNote": "Muestra onda pletismográfica real e índice de perfusión (PI), clave para comprobar que la lectura de saturación no tiene artefactos por frío.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Pulsioximetro+SpO2",
-      "buyUrl": "https://www.amazon.es/s?k=pulsioximetro+curva+pletismografica&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=pulsioximetro+curva+pletismografica&tag=biomedpro-21"
     },
     {
       "id": "bio-08",
@@ -106,7 +106,7 @@
       "price": 59.95,
       "techNote": "Estima masa magra, agua corporal y grasa visceral mediante corriente alterna de baja intensidad a través de electrodos ITO de alta conductividad.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Bascula+BIA",
-      "buyUrl": "https://www.amazon.es/s?k=bascula+bioimpedancia&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=bascula+bioimpedancia&tag=biomedpro-21"
     },
     {
       "id": "bio-09",
@@ -117,7 +117,7 @@
       "price": 44.90,
       "techNote": "Combina analgesia por teoría de la compuerta (TENS) con reclutamiento motor controlado (EMS) mediante pulsos bifásicos simétricos.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Electroestimulador+TENS",
-      "buyUrl": "https://www.amazon.es/s?k=electroestimulador+tens+ems&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=electroestimulador+tens+ems&tag=biomedpro-21"
     },
     {
       "id": "bio-10",
@@ -128,7 +128,7 @@
       "price": 69.99,
       "techNote": "Amplitud de percusión de 10-12 mm con motor brushless silencioso para reducir rigidez miofascial y mejorar flujo sanguíneo local.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Pistola+Percusion",
-      "buyUrl": "https://www.amazon.es/s?k=pistola+masaje+muscular&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=pistola+masaje+muscular&tag=biomedpro-21"
     },
     {
       "id": "bio-11",
@@ -139,7 +139,7 @@
       "price": 24.95,
       "techNote": "Inclinación de 15° para entrenamiento neuromuscular y recuperación de estabilidad articular tras esguinces.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Tabla+Propiocepcion",
-      "buyUrl": "https://www.amazon.es/s?k=tabla+equilibrio+propiocepcion&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=tabla+equilibrio+propiocepcion&tag=biomedpro-21"
     },
     {
       "id": "bio-12",
@@ -150,7 +150,7 @@
       "price": 27.99,
       "techNote": "Eleva la pantalla a la línea ocular reduciendo la carga cervical en sesiones largas de programación, MATLAB o diseño CAD.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Soporte+Ergonomico",
-      "buyUrl": "https://www.amazon.es/s?k=soporte+portatil+aluminio+ergonomico&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=soporte+portatil+aluminio+ergonomico&tag=biomedpro-21"
     },
     {
       "id": "bio-13",
@@ -161,7 +161,7 @@
       "price": 29.95,
       "techNote": "Resolución de sistemas lineales, matrices 4x4, integrales definidas y distribuciones estadísticas indispensables en exámenes de ingeniería.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Calculadora+Cientifica",
-      "buyUrl": "https://www.amazon.es/s?k=calculadora+cientifica+casio+classwiz&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=calculadora+cientifica+casio+classwiz&tag=biomedpro-21"
     },
     {
       "id": "bio-14",
@@ -172,7 +172,7 @@
       "price": 36.99,
       "techNote": "Incluye amplificadores operacionales, resistencias de precisión, condensadores y fuente de alimentación 3.3V/5V para filtros activos.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Kit+Electronica+Lab",
-      "buyUrl": "https://www.amazon.es/s?k=kit+electronica+protoboard+elegoo&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=kit+electronica+protoboard+elegoo&tag=biomedpro-21"
     },
     {
       "id": "bio-15",
@@ -183,7 +183,7 @@
       "price": 32.99,
       "techNote": "Rechazo de palma y sensibilidad a la inclinación para dibujar diagramas de bloques, circuitos y esquemas fisiológicos con fluidez.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Stylus+Precision",
-      "buyUrl": "https://www.amazon.es/s?k=lapiz+optico+tablet+rechazo+palma&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=lapiz+optico+tablet+rechazo+palma&tag=biomedpro-21"
     },
     {
       "id": "bio-16",
@@ -194,7 +194,7 @@
       "price": 39.99,
       "techNote": "Control PID de temperatura (200°C–480°C) con puntas intercambiables para soldar pines en sensores biomédicos sin dañar los pads.",
       "imageUrl": "https://placehold.co/600x600/F4F6F9/0A192F?text=Estacion+Soldadura",
-      "buyUrl": "https://www.amazon.es/s?k=estacion+soldadura+digital&tag=TU-ID-AFILIADO"
+      "buyUrl": "https://www.amazon.es/s?k=estacion+soldadura+digital&tag=biomedpro-21"
     }
   ]
 }
